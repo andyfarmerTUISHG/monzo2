@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://www.monzo.com">
-    <img alt="Monzo favicon" src="https://d33wubrfki0l68.cloudfront.net/673084cc885831461ab2cdd1151ad577cda6a49a/92a4d/static/images/favicon.png" width="60" />
+  <a href="https://www.BluecrestWellness.com">
+  Bluecrest Wellness
   </a>
 </p>
 <h1 align="center">
-    Progression at Monzo
+    Progression at Bluecrest
 </h1>
 
-🎉 Welcome to the Progression at Monzo repository
+🎉 Welcome to the Progression at Bluecrest repository
 
-This is where all of Monzo's progression frameworks live, as well as the site that powers `progression.monzo.com` 💪
+This is where all of Bluecrest's progression frameworks live, as well as the site that powers `progression.BluecrestWellness.com` 💪
 
 **Get stuck? There's a glossary at the bottom of this readme!**
 

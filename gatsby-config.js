@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Monzo Progression',
+    title: 'Bluecrest Progression',
   },
   plugins: [
     `gatsby-plugin-styled-components`,
