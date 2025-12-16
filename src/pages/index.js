@@ -27,7 +27,7 @@ export default class Index extends React.Component<Props> {
           </DescriptionTitleGroup>
           <Description>
             <DescriptionText>
-              This is where we keep the progression frameworks we use at Monzo.
+              This is where we keep the progression frameworks we use at Bluecrest.
             </DescriptionText>
             <DescriptionText>
               Progression frameworks are tools that help us evaluate and pay our
